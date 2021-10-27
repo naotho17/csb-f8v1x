@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naotho17.github.io/csb-f8v1x/static/css/main.b83cf92e.chunk.css",
+    "main.js": "https://naotho17.github.io/csb-f8v1x/static/js/main.10cb17ba.chunk.js",
+    "main.js.map": "https://naotho17.github.io/csb-f8v1x/static/js/main.10cb17ba.chunk.js.map",
+    "runtime-main.js": "https://naotho17.github.io/csb-f8v1x/static/js/runtime-main.4aa8bbc1.js",
+    "runtime-main.js.map": "https://naotho17.github.io/csb-f8v1x/static/js/runtime-main.4aa8bbc1.js.map",
+    "static/js/2.f223e296.chunk.js": "https://naotho17.github.io/csb-f8v1x/static/js/2.f223e296.chunk.js",
+    "static/js/2.f223e296.chunk.js.map": "https://naotho17.github.io/csb-f8v1x/static/js/2.f223e296.chunk.js.map",
+    "index.html": "https://naotho17.github.io/csb-f8v1x/index.html",
+    "static/css/main.b83cf92e.chunk.css.map": "https://naotho17.github.io/csb-f8v1x/static/css/main.b83cf92e.chunk.css.map",
+    "static/js/2.f223e296.chunk.js.LICENSE.txt": "https://naotho17.github.io/csb-f8v1x/static/js/2.f223e296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa8bbc1.js",
+    "static/js/2.f223e296.chunk.js",
+    "static/css/main.b83cf92e.chunk.css",
+    "static/js/main.10cb17ba.chunk.js"
+  ]
+}
